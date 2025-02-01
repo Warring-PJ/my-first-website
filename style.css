@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f6f4f4;
+    background-color: #f0f8ff;
     color: #456;
     max-width: 800px;
     margin: auto;
@@ -8,7 +8,10 @@ body {
 }
 
 h1 {
-    color: #2c3e50;
+    color: #f39c12;
+}
+h2 {
+    color: #2ecc71
 }
 
 a {
